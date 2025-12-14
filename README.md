@@ -1,3 +1,3 @@
 # Helios
-My name is HansHenry.
+My name is Declan Ashley.
 Welcome to my Github.
